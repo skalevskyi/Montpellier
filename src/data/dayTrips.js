@@ -12,7 +12,7 @@ const dayTrips = [
       "Відвідини абатства Gellone",
       "Прогулянка ущелиною"
     ],
-    location: "https://goo.gl/maps/wWvLPDiq9fMD6kK47",
+    location: "https://www.google.com/maps/place/Saint-Guilhem-le-Désert,+34150/",
     distance: "≈50 км / 50 хв"
   },
   {
@@ -26,7 +26,7 @@ const dayTrips = [
       "Купання",
       "Пішохідна прогулянка"
     ],
-    location: "https://goo.gl/maps/NY6sDNyEqk7FJKAV8",
+    location: "https://www.google.com/maps/place/Pont+du+Diable,+Aniane/",
     distance: "≈45 км / 40 хв"
   },
   {
@@ -40,7 +40,7 @@ const dayTrips = [
       "Каякінг",
       "Пікнік"
     ],
-    location: "https://goo.gl/maps/YXqYe4Vb4yM2",
+    location: "https://www.google.com/maps/place/Lac+du+Salagou,+34800/",
     distance: "≈55 км / 50 хв"
   },
   {
@@ -54,7 +54,7 @@ const dayTrips = [
       "Спуск до села",
       "Водоспад"
     ],
-    location: "https://goo.gl/maps/KdAGLZ99Zqs",
+    location: "https://www.google.com/maps/place/Cirque+de+Navacelles/",
     distance: "≈90 км / 1 год 30 хв"
   },
   {
@@ -68,7 +68,7 @@ const dayTrips = [
       "Соляні поля",
       "Прогулянка каналом"
     ],
-    location: "https://goo.gl/maps/hyGZoxKMCcG2",
+    location: "https://www.google.com/maps/place/Aigues-Mortes,+30220/",
     distance: "≈35 км / 35 хв"
   },
   {
@@ -82,7 +82,7 @@ const dayTrips = [
       "Гора Сен-Клер",
       "Морепродукти"
     ],
-    location: "https://goo.gl/maps/MqjHZbX7Khz",
+    location: "https://www.google.com/maps/place/Sète,+34200/",
     distance: "≈35 км / 35 хв"
   },
   {
@@ -96,7 +96,7 @@ const dayTrips = [
       "Прогулянка вздовж каналу",
       "Колесо огляду"
     ],
-    location: "https://goo.gl/maps/fUsY7PzyhW12",
+    location: "https://www.google.com/maps/place/Palavas-les-Flots,+34250/",
     distance: "≈13 км / 20 хв"
   },
   {
@@ -110,7 +110,7 @@ const dayTrips = [
       "Дегустація вина",
       "Сади"
     ],
-    location: "https://goo.gl/maps/xZfqXzS5FyD2",
+    location: "https://www.google.com/maps/place/Abbaye+de+Valmagne,+Villeveyrac/",
     distance: "≈42 км / 45 хв"
   },
   {
@@ -124,7 +124,7 @@ const dayTrips = [
       "Фабрика",
       "Водоспад"
     ],
-    location: "https://goo.gl/maps/7xC6nUfg8Vm",
+    location: "https://www.google.com/maps/place/Villeneuvette,+34800/",
     distance: "≈55 км / 50 хв"
   },
   {
@@ -138,7 +138,7 @@ const dayTrips = [
       "Фото скель",
       "Пікнік"
     ],
-    location: "https://goo.gl/maps/43w9c1qzpG32",
+    location: "https://www.google.com/maps/place/Cirque+de+Mourèze/",
     distance: "≈52 км / 50 хв"
   },
   {
@@ -152,7 +152,7 @@ const dayTrips = [
       "Прогулянка берегом",
       "Човен"
     ],
-    location: "https://goo.gl/maps/G8A8PYBBFjp",
+    location: "https://www.google.com/maps/place/Étang+de+Thau/",
     distance: "≈45 км / 40 хв"
   },
   {
@@ -166,7 +166,7 @@ const dayTrips = [
       "Круїз",
       "Маяк"
     ],
-    location: "https://goo.gl/maps/2w6sszvdVwu",
+    location: "https://www.google.com/maps/place/La+Grande-Motte,+34280/",
     distance: "≈30 км / 35 хв"
   },
   {
@@ -180,7 +180,7 @@ const dayTrips = [
       "Відвідини собору",
       "Вино"
     ],
-    location: "https://goo.gl/maps/kEXsnBSeBy1t1c2P8",
+    location: "https://www.google.com/maps/place/Cathédrale+de+Maguelone,+Villeneuve-lès-Maguelone/",
     distance: "≈15 км / 25 хв"
   },
   {
@@ -194,7 +194,7 @@ const dayTrips = [
       "Метеоцентр",
       "Хайкінг"
     ],
-    location: "https://goo.gl/maps/7v8uDwhsC4T2",
+    location: "https://www.google.com/maps/place/Mont+Aigoual/",
     distance: "≈95 км / 1 год 40 хв"
   },
   {
@@ -208,7 +208,7 @@ const dayTrips = [
       "Канатна дорога",
       "Фото"
     ],
-    location: "https://goo.gl/maps/nWr2TTsKkvD2",
+    location: "https://www.google.com/maps/place/Grotte+des+Demoiselles,+Saint-Bauzille-de-Putois/",
     distance: "≈55 км / 1 год"
   },
   {
@@ -222,7 +222,7 @@ const dayTrips = [
       "Фото в печерах",
       "Сувеніри"
     ],
-    location: "https://goo.gl/maps/q6q8tRZyqzT2",
+    location: "https://www.google.com/maps/place/Grotte+de+Clamouse,+Saint-Jean-de-Fos/",
     distance: "≈40 км / 45 хв"
   },
   {
@@ -236,7 +236,7 @@ const dayTrips = [
       "Огляд вілли",
       "Мозаїки"
     ],
-    location: "https://goo.gl/maps/YyRtJ8A8mQw",
+    location: "https://www.google.com/maps/place/Loupian,+34140/",
     distance: "≈35 км / 40 хв"
   },
   {
@@ -250,7 +250,7 @@ const dayTrips = [
       "Ремісничі лавки",
       "Антикваріат"
     ],
-    location: "https://goo.gl/maps/XBN5swqzVNs",
+    location: "https://www.google.com/maps/place/Pézenas,+34120/",
     distance: "≈60 км / 50 хв"
   },
   {
@@ -264,7 +264,7 @@ const dayTrips = [
       "Спа",
       "Пляж"
     ],
-    location: "https://goo.gl/maps/eqFSWXnhEMp",
+    location: "https://www.google.com/maps/place/Balaruc-les-Bains,+34540/",
     distance: "≈30 км / 30 хв"
   },
   {
@@ -278,7 +278,7 @@ const dayTrips = [
       "Міст через Hérault",
       "Пляж Cap d’Agde"
     ],
-    location: "https://goo.gl/maps/pzRgnk96BE92",
+    location: "https://www.google.com/maps/place/Agde,+34300/",
     distance: "≈65 км / 55 хв"
   }
 ];

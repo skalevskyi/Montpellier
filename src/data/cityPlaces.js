@@ -15,7 +15,7 @@ const cityPlaces = [
       "Зайти у торговий центр Polygone",
       "Піднятись до площі Анрі IV для огляду панорами"
     ],
-    location: "https://goo.gl/maps/6v5Xoyt1z5uHkJVa9"
+    location: "https://www.google.com/maps/search/Place+de+la+Comédie,+Montpellier"
   },
   {
     name: "Promenade du Peyrou",
@@ -31,7 +31,7 @@ const cityPlaces = [
       "Піднятися алеєю до Арки тріумфу",
       "Оглянути водосховище і парк"
     ],
-    location: "https://goo.gl/maps/KZuup9a6JoME5eNk6"
+    location: "https://www.google.com/maps/search/Promenade+du+Peyrou,+Montpellier"
   },
   {
     name: "Jardin des Plantes",
@@ -47,7 +47,7 @@ const cityPlaces = [
       "Побачити старі теплиці та лікарські рослини",
       "Пройтись до амфітеатру в кінці саду"
     ],
-    location: "https://goo.gl/maps/jZGb8wX9xGcSK8nH8"
+    location: "https://www.google.com/maps/search/Jardin+des+Plantes,+Montpellier"
   },
   {
     name: "Cathédrale Saint-Pierre",
@@ -63,7 +63,7 @@ const cityPlaces = [
       "Оглянути внутрішній двір",
       "Відвідати кафедру й оглядову зону"
     ],
-    location: "https://goo.gl/maps/5ZhtGkUkhoC2"
+    location: "https://www.google.com/maps/search/Cathédrale+Saint-Pierre+de+Montpellier"
   },
   {
     name: "Musée Fabre",
@@ -79,7 +79,7 @@ const cityPlaces = [
       "Почати з класичного живопису",
       "Завершити сучасними інсталяціями"
     ],
-    location: "https://goo.gl/maps/WJYWD3KR6rD2"
+    location: "https://www.google.com/maps/search/Musée+Fabre,+Montpellier"
   },
   {
     name: "Esplanade Charles-de-Gaulle",
@@ -95,7 +95,7 @@ const cityPlaces = [
       "Пройтися під тінню платанів",
       "Відвідати художні виставки просто неба"
     ],
-    location: "https://goo.gl/maps/Cbi3UeMk43iPtHHd9"
+    location: "https://www.google.com/maps/search/Esplanade+Charles-de-Gaulle"
   },
   {
     name: "Antigone",
@@ -111,7 +111,7 @@ const cityPlaces = [
       "Посидіти біля фонтанів",
       "Завітати до басейну Antigone або бібліотеки"
     ],
-    location: "https://goo.gl/maps/YKtGoaapSSaHce5p6"
+    location: "https://www.google.com/maps/search/Antigone,+Montpellier"
   },
   {
     name: "Le Corum",
@@ -127,7 +127,7 @@ const cityPlaces = [
       "Оглянути терасу з видом на місто",
       "Відвідати конференцію або концерт"
     ],
-    location: "https://goo.gl/maps/vVrKZ3xf9D42"
+    location: "https://www.google.com/maps/place/Le+Corum,+Montpellier/"
   },
   {
     name: "Quartier Saint-Roch",
@@ -143,7 +143,7 @@ const cityPlaces = [
       "Випити каву в одному з барів",
       "Прогулятись художніми вуличками з графіті"
     ],
-    location: "https://goo.gl/maps/n9XxtFa4gP92"
+    location: "https://www.google.com/maps/place/Église+Saint-Roch,+Montpellier/"
   },
   {
     name: "Marché du Lez",
@@ -159,7 +159,7 @@ const cityPlaces = [
       "Придбати вінтажні речі",
       "Зробити фото біля муралів"
     ],
-    location: "https://goo.gl/maps/XZh2uKPMW7T2"
+    location: "https://www.google.com/maps/place/Marché+du+Lez,+Montpellier/"
   },
     {
     name: "Parc du Domaine de Méric",
@@ -175,7 +175,7 @@ const cityPlaces = [
       "Пройтись стежками вздовж Лез",
       "Оглянути віллу родини Базіля"
     ],
-    location: "https://goo.gl/maps/nNmbxPtC42N2"
+    location: "https://www.google.com/maps/place/Parc+du+Domaine+de+Méric,+Montpellier/"
   },
   {
     name: "Aqueduc Saint-Clément",
@@ -191,7 +191,7 @@ const cityPlaces = [
       "Піднятись на міст для огляду",
       "Сфотографуватись на фоні аркад"
     ],
-    location: "https://goo.gl/maps/mKzxtM1AEq72"
+    location: "https://www.google.com/maps/place/Aqueduc+Saint-Clément,+Montpellier/"
   },
   {
     name: "Planet Ocean World",
@@ -207,7 +207,7 @@ const cityPlaces = [
       "Відвідати космічні експозиції",
       "Заглянути до сувенірної крамниці"
     ],
-    location: "https://goo.gl/maps/qR9AvE3Etdq"
+    location: "https://www.google.com/maps/place/Planet+Ocean+World,+Montpellier/"
   },
   {
     name: "Odysseum",
@@ -223,7 +223,7 @@ const cityPlaces = [
       "Подивитися фільм в кінотеатрі Gaumont",
       "Вечеряти в ресторані з терасою"
     ],
-    location: "https://goo.gl/maps/LgVCkhnNDzK2"
+    location: "https://www.google.com/maps/place/Odysseum,+Montpellier/"
   },
   {
     name: "Château de Flaugergues",
@@ -239,7 +239,7 @@ const cityPlaces = [
       "Оглянути інтер’єри замку",
       "Прогулятись французьким садом"
     ],
-    location: "https://goo.gl/maps/rSHdG8ACzqD2"
+    location: "https://www.google.com/maps/place/Château+de+Flaugergues,+Montpellier/"
   },
   {
     name: "Zoo de Lunaret",
@@ -255,7 +255,7 @@ const cityPlaces = [
       "Побачити жираф, левів і мавп",
       "Відпочити у тіні біля водойми"
     ],
-    location: "https://goo.gl/maps/x4GUpSCWqLJ2"
+    location: "https://www.google.com/maps/place/Zoo+de+Lunaret,+Montpellier/"
   },
   {
     name: "Parc Montcalm",
@@ -271,7 +271,7 @@ const cityPlaces = [
       "Пограти у футбол або баскетбол",
       "Пікнік у тіні дерев"
     ],
-    location: "https://goo.gl/maps/gzRmJ9eBAmH2"
+    location: "https://www.google.com/maps/place/Parc+Montcalm,+Montpellier/"
   },
   {
     name: "Église Saint-Anne",
@@ -287,7 +287,7 @@ const cityPlaces = [
       "Зайти в сувенірну крамницю",
       "Піднятися до оглядового майданчика"
     ],
-    location: "https://goo.gl/maps/UhtY8vEQEsw"
+    location: "https://www.google.com/maps/place/Église+Saint-Anne,+Montpellier/"
   },
   {
     name: "Port Marianne",
@@ -303,7 +303,7 @@ const cityPlaces = [
       "Кав’ярні біля Bassin Jacques Cœur",
       "Відвідати архітектурні новинки"
     ],
-    location: "https://goo.gl/maps/X2h7zkGbRyp"
+    location: "https://www.google.com/maps/place/Port+Marianne,+Montpellier/"
   },
   {
     name: "Maison de la Nature",
@@ -319,7 +319,7 @@ const cityPlaces = [
       "Подивитись на птахів у бінокль",
       "Оглянути виставки про біорізноманіття"
     ],
-    location: "https://goo.gl/maps/MkDdvv3whmn"
+    location: "https://www.google.com/maps/place/Maison+de+la+Nature,+Lattes/"
   }
 ];
 
