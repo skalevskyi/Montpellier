@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Montpellier/static/css/main.1879fc57.css",
+    "main.js": "/Montpellier/static/js/main.0342e0d9.js",
+    "index.html": "/Montpellier/index.html",
+    "main.1879fc57.css.map": "/Montpellier/static/css/main.1879fc57.css.map",
+    "main.0342e0d9.js.map": "/Montpellier/static/js/main.0342e0d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1879fc57.css",
+    "static/js/main.0342e0d9.js"
+  ]
+}
