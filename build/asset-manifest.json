@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/montpellier-guide/static/css/main.1e8a90da.css",
+    "main.js": "/montpellier-guide/static/js/main.a1097645.js",
+    "index.html": "/montpellier-guide/index.html",
+    "main.1e8a90da.css.map": "/montpellier-guide/static/css/main.1e8a90da.css.map",
+    "main.a1097645.js.map": "/montpellier-guide/static/js/main.a1097645.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e8a90da.css",
+    "static/js/main.a1097645.js"
+  ]
+}
