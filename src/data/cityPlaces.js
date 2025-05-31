@@ -6,9 +6,7 @@ const cityPlaces = [
     category: "Центр",
     description: "Головна площа Монпельє з оперним театром і численними кафе.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6b/Place_de_la_Com%C3%A9die_Montpellier.jpg",
-      "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/110000/110800-Montpellier.jpg",
-      "https://www.soleil-vacances.com/blog/wp-content/uploads/2019/06/visiter-montpellier-place-comedie.jpg"
+      "https://lh3.googleusercontent.com/p/AF1QipOyCCRxyWaKr0J9qRDQCr_85uoGZ4bCWeYhDPx2=s680-w680-h510-rw"
     ],
     plan: [
       "Почати з прогулянки біля фонтану Трьох грацій",
@@ -22,9 +20,7 @@ const cityPlaces = [
     category: "Оглядові точки",
     description: "Панорамна тераса з видом на акведук, пам’ятник Людовику XIV та старе місто.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/7/72/Peyrou_Montpellier_01.jpg",
-      "https://cdn.sortiraparis.com/images/80/67807/751085-peyrou-montpellier.jpg",
-      "https://www.herault-tourisme.com/wp-content/uploads/2021/03/arc-peyrou-montpellier-herault.jpg"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrNKq0PtXmJ-utdujOGGZvPC2UZVl2s0w7K6fIJajVoepx-Y3cnXMCBea-nKxViHW0JOu7Wu5ERgRUu7kIaM7Jtl2fpOqZl5hig5eNJeN45Qm4PVpn_tT1RPP4kqyMjUDdSWQWj=s680-w680-h510-rw"
     ],
     plan: [
       "Приїхати до зупинки трамвая Place Albert 1er",
@@ -38,9 +34,7 @@ const cityPlaces = [
     category: "Парки",
     description: "Один із найстаріших ботанічних садів Франції — заснований у 1593 році.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/9/9b/Jardin_des_plantes_Montpellier_02.jpg",
-      "https://cdn.sortiraparis.com/images/80/67804/751083-jardin-des-plantes-montpellier.jpg",
-      "https://static.actu.fr/uploads/2021/09/jardin-des-plantes-montpellier.jpg"
+      "https://lh3.googleusercontent.com/p/AF1QipMC9L0lPnEnh1qsFZHEvULraOT3282n0e1jRUqp=s680-w680-h510-rw"
     ],
     plan: [
       "Увійти з боку Boulevard Henri IV",
@@ -54,9 +48,7 @@ const cityPlaces = [
     category: "Архітектура",
     description: "Готичний собор XIV століття з величезними контрфорсами біля входу.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/1/18/Montpellier_cathedrale.jpg",
-      "https://www.ot-montpellier.fr/wp-content/uploads/2020/07/cathedrale-saint-pierre-1-scaled.jpg",
-      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/71/67/3d/cathedrale-saint-pierre.jpg"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqlUjY9ddvTVL4vq_BLEDMG74VrSaOphmxldSGou61KknikuD4cH_swgyEAGiuB4m9Cm1fbaamG_A5J9ZP1MpnAIIKBjhwg0rqBAOsPezwHRiwM3lcV_E_R7MlL-wP8UOxQ6jBP=s680-w680-h510-rw"
     ],
     plan: [
       "Зайти через Cour de la Faculté de Médecine",
@@ -70,9 +62,7 @@ const cityPlaces = [
     category: "Музеї",
     description: "Один із найважливіших музеїв образотворчого мистецтва у Франції.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mus%C3%A9e_Fabre_Montpellier.jpg",
-      "https://cdn.sortiraparis.com/images/80/67803/751082-musee-fabre-montpellier.jpg",
-      "https://www.herault-tourisme.com/wp-content/uploads/2021/04/musee-fabre-montpellier-herault-tourisme.jpg"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqBSUyKWewvjnvNZL4eNBF6iKlzJgYsYVIfnLmwQ1yhKqsuYABs9bCDhTl6ecydu6JTrU2Ynfx-qHMr8JMcH_wWGyvpkDIBFEMKAuXXMlw3alWPQ7JJShfhJwIfQslenrHZ0_bD=s680-w680-h510-rw"
     ],
     plan: [
       "Придбати квиток онлайн або на вході",
@@ -86,9 +76,7 @@ const cityPlaces = [
     category: "Парки",
     description: "Зелена пішохідна зона між Place de la Comédie та Musée Fabre з фонтанами і виставками.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/1/14/EsplanadeCharlesDeGaulle.jpg",
-      "https://www.ot-montpellier.fr/wp-content/uploads/2020/06/esplanade-montpellier.jpg",
-      "https://i.pinimg.com/originals/e9/58/9e/e9589e772ea7e216ff5b6dce675e2098.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Montpellier_Esplanade_Ch_de_Gaulle_27122006.JPG/1280px-Montpellier_Esplanade_Ch_de_Gaulle_27122006.JPG"
     ],
     plan: [
       "Почати з кави в одному з кафе вздовж алеї",
@@ -102,9 +90,7 @@ const cityPlaces = [
     category: "Сучасна архітектура",
     description: "Архітектурний район із неокласичними будівлями, спроєктованими Рікардо Бофіллом.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/f/fc/Antigone_Montpellier.jpg",
-      "https://media.easyvoyage.com/media/1200x630_crop/16807.jpg",
-      "https://img.ev.mu/images/attractions/5621/960x640/1236.jpg"
+      "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRDX09e8SIdxfpr1pk_oHpQekNsifHpdAmZVIGdTm0q9FQA2hbfg0l2fwW1wWD8IVWUTanBrqfPgGCTRfw0Q5RMssHFlJ6XsDWEqziYEw"
     ],
     plan: [
       "Пройтися вулицею Place du Nombre d'Or",
@@ -118,9 +104,7 @@ const cityPlaces = [
     category: "Культура",
     description: "Конференц-центр і опера на пагорбі над Esplanade Charles-de-Gaulle.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/1/17/Le_Corum_Montpellier.jpg",
-      "https://www.corum-montpellier.com/sites/default/files/styles/gallery_large/public/2019-06/vue-generale-du-corum-copyright-dr.jpg",
-      "https://img.ev.mu/images/attractions/5616/960x640/1273.jpg"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr9pwDEOktYHpJRFhQzLpYIw4qvah-QJPGgldM4UdDLIvZqWdcyghW6yPZi8KrbpyDeKNUIAKvMmNw2B6Y2zYHoZR4ygb_vsqB5mTsz94Lv_nFBNaiKkKkYuHToD6YtZs0LDv0=s680-w680-h510-rw"
     ],
     plan: [
       "Зайти в оперний зал",
@@ -134,9 +118,7 @@ const cityPlaces = [
     category: "Історичні райони",
     description: "Атмосферний квартал з вузькими вуличками, барами та церквою Saint-Roch.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/d/df/Saint-Roch_Church_Montpellier.jpg",
-      "https://www.herault-tourisme.com/wp-content/uploads/2021/04/eglise-saint-roch-montpellier.jpg",
-      "https://www.montpellier-france.com/sites/default/files/styles/gallery_large/public/2020-09/eglise-saint-roch-960x720.jpg"
+      "https://toutmontpellier.fr/wp-content/uploads/2017/10/originale_photo_fiche_11666_241006-2.jpg.webp"
     ],
     plan: [
       "Почати з церкви Saint-Roch",
@@ -150,9 +132,7 @@ const cityPlaces = [
     category: "Гастрономія",
     description: "Креативний ринок з вуличною їжею, антикваріатом та арт-об'єктами.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/b/bc/Marche_du_Lez_Montpellier.jpg",
-      "https://cdn.sortiraparis.com/images/80/67806/751084-marche-du-lez.jpg",
-      "https://i.pinimg.com/originals/36/c7/b4/36c7b450f0d9d32fef7a6767f99497aa.jpg"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npFEfRQRp68RBoFjC0liVvEs2Z7Vbp3NTjQNK8uNz6gO0oBUqo_p6f7RF_CRAPq1CJ1i5cVMRst0DpUPqVXvKd4GgddY9qNqTq6de1ECL4CnLCslflXWApELrkxUe8vUTkbkeVubQ=s680-w680-h510-rw"
     ],
     plan: [
       "Скуштувати локальні страви",
@@ -166,9 +146,7 @@ const cityPlaces = [
     category: "Природа",
     description: "Колишній маєток родини художника Фредеріка Базіля, з видом на річку Лез.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/b/b6/Parc_Meric_Montpellier.jpg",
-      "https://cdn.sortiraparis.com/images/80/67809/751087-parc-meric.jpg",
-      "https://i.ytimg.com/vi/7RIrmA9x9ik/maxresdefault.jpg"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrF0QAUHPIV7Jg2iPMxHUn49hVGtfFyRmRpUDIcjUbKFZ8O4ML11p8qVCjSjXuVH2WujR22Ke6eQDALD-LJdo5BYHSLaQY_Fy0RNcIvBvseWO13KTz65L_ShLYCjDVgHNAPLonzzg=s680-w680-h510-rw"
     ],
     plan: [
       "Влаштувати пікнік з видом на річку",
@@ -182,9 +160,7 @@ const cityPlaces = [
     category: "Історія",
     description: "Акведук XVIII століття, який постачав воду до Монпельє.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/b/bc/Aqueduc_Saint-Cl%C3%A9ment.jpg",
-      "https://cdn.sortiraparis.com/images/80/67810/751088-aqueduc-montpellier.jpg",
-      "https://www.herault-tourisme.com/wp-content/uploads/2021/03/aqueduc-saint-clement.jpg"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no_eXZ-5O6_bcWCaUXR4QZFGVsF8YEO7onGunl9wG9q5n1LLNmvkbUyFe9oOfw4LHVG3YamIUwPdg4Ktb6RjGLn0sbTM0yDTU34g-GyZsfjykOJC1BLvYOCS4y-tA29YdqaMoerdg=s680-w680-h510-rw"
     ],
     plan: [
       "Пройтись вздовж акведуку від Parc du Peyrou",
@@ -198,9 +174,7 @@ const cityPlaces = [
     category: "Розваги",
     description: "Океанаріум і планетарій у районі Odysseum, для всієї родини.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/2/23/Planet_Ocean_Montpellier.jpg",
-      "https://cdn.sortiraparis.com/images/80/67811/751089-planet-ocean.jpg",
-      "https://img.ev.mu/images/attractions/13390/960x640/3262.jpg"
+      "https://lh3.googleusercontent.com/p/AF1QipOFngNIQIuYfptpw0FqxGzmwq0BcbClDdrJhscu=s680-w680-h510-rw"
     ],
     plan: [
       "Оглянути морських тварин і риб",
@@ -214,9 +188,7 @@ const cityPlaces = [
     category: "Шопінг та розваги",
     description: "Великий торгово-розважальний центр з магазинами, кінотеатром і ресторанною зоною.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/e/e7/Odysseum_Montpellier.jpg",
-      "https://media.easyvoyage.com/media/1200x630_crop/12693.jpg",
-      "https://www.herault-tourisme.com/wp-content/uploads/2021/04/odysseum-montpellier.jpg"
+      "https://api.cloudly.space/resize/crop/1200/627/60/aHR0cHM6Ly9jZHQzNC5tZWRpYS50b3VyaW5zb2Z0LmV1L3VwbG9hZC9QSE9UTy1DRU5UUkUuanBn/image.jpg"
     ],
     plan: [
       "Зайти до магазину Decathlon",
@@ -230,9 +202,7 @@ const cityPlaces = [
     category: "Історія та вино",
     description: "Елегантний заміський маєток XVIII століття з садами та виноробнею.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/3/39/Chateau_de_Flaugergues.jpg",
-      "https://www.herault-tourisme.com/wp-content/uploads/2021/04/chateau-flaugergues.jpg",
-      "https://img.ev.mu/images/attractions/13391/960x640/3263.jpg"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIkRCcbDsmrKdQ_xiLns_P5cNevvCdHZ92WJ4wLAZEOJsYNHMQqwEqY-jyorcUmbfiOEClCOTIeYESCNcJhLpuH54LGdXswKXonvBzecHqRn2NNvfu6wkmtvQ6UW7lEqeReqPi5g=s680-w680-h510-rw"
     ],
     plan: [
       "Взяти участь у винній дегустації",
@@ -246,9 +216,7 @@ const cityPlaces = [
     category: "Розваги",
     description: "Один із найбільших зоопарків Франції з безкоштовним входом. Тут мешкає понад 1200 тварин.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/d/d6/Zoo_Lunaret_Montpellier.jpg",
-      "https://www.montpellier-tourisme.fr/wp-content/uploads/2020/08/zoo-lunaret.jpg",
-      "https://cdn.sortiraparis.com/images/80/67809/751089-zoo-lunaret.jpg"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr3RJFllTGWncx2VydTyZyvNEfAJJLIvWDwh-Rargd_slpwkpM0ypnf0XnlMZNHXPUIitLevHy9jH61k9oxILseq4fCKRRYoO6PgnAj6_Rze4k-HXxHs65tMp_BCfkA4qtFGmw7=s680-w680-h510-rw"
     ],
     plan: [
       "Завчасно взяти карту маршруту",
@@ -262,9 +230,7 @@ const cityPlaces = [
     category: "Парки",
     description: "Великий міський парк із алеями, дитячими майданчиками та зонами для пікніка.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/e/ee/Parc_Montcalm_Montpellier.jpg",
-      "https://cdn.sortiraparis.com/images/80/67813/751090-parc-montcalm.jpg",
-      "https://www.herault-tourisme.com/wp-content/uploads/2021/04/parc-montcalm.jpg"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrMA4rgzPgJI1Wc6RffUpIdGmhcbj73m2JneszHi2uDzhP75MHUfzKLg_lKjsa4A8Rdf1q0xOIoEsTvhVNaDvztVYxWEvetDVElwArXU5wvYHEuZ9yJfHpHN1BCQ8k42s7agxtt=s680-w680-h510-rw"
     ],
     plan: [
       "Покататися на велосипеді по алеях",
@@ -278,9 +244,7 @@ const cityPlaces = [
     category: "Культура",
     description: "Колишня церква, що стала центром сучасного мистецтва у серці історичного центру.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/8/87/Saint_Anne_Montpellier.jpg",
-      "https://cdn.sortiraparis.com/images/80/67814/751091-saint-anne.jpg",
-      "https://www.montpellier-tourisme.fr/wp-content/uploads/2020/07/saint-anne.jpg"
+      "https://encommun.montpellier.fr/sites/default/files/styles/crop_libre_w1920/public/articles/2023-06/Carr%C3%A9%20Ste-Anne%20palissade%40C.%20Ruiz.jpg?itok=VOtU98uc"
     ],
     plan: [
       "Оглянути експозиції сучасного мистецтва",
@@ -294,9 +258,7 @@ const cityPlaces = [
     category: "Сучасна архітектура",
     description: "Модерновий район з хмарочосами, урбаністичним плануванням та мальовничими набережними.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/e/e9/Port_Marianne.jpg",
-      "https://cdn.sortiraparis.com/images/80/67815/751092-port-marianne.jpg",
-      "https://img.ev.mu/images/attractions/5618/960x640/1270.jpg"
+      "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-6/473227939_10162239382677962_8222507304817377875_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=2285d6&_nc_ohc=CGrf8342UUQQ7kNvwF3JsUo&_nc_oc=AdmMHGFHJl-IMP09ZN3RvtnqE7nkkuBwAHZla5Zrap5_zYyw3sK7gNYayQs_6NEyf4FfQyxf1ASISlu4hc38CYM1&_nc_zt=23&_nc_ht=scontent-cdg4-3.xx&_nc_gid=LLRGkurCqtM2yUHayVLHpg&oh=00_AfKyS-v7ElId2Z3XNPRuIW7hzvdIuBlsAdOyZHwB65_A1A&oe=68403ABA"
     ],
     plan: [
       "Прогулянка уздовж Lez",
@@ -310,9 +272,7 @@ const cityPlaces = [
     category: "Природа та освіта",
     description: "Центр спостереження за птахами та природою в дельті річки Lez.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/b/b7/Maison_Nature_Lattes.jpg",
-      "https://cdn.sortiraparis.com/images/80/67816/751093-maison-nature.jpg",
-      "https://img.ev.mu/images/attractions/5619/960x640/1271.jpg"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npFKb_s-BEbSC9cYR5RlJtcdkzRPWIJwD_6mjTYlgQ_jt0Hi7cX36liCj6-e5o0G_0ndChLSide5H8ijUjA5MdRGedEEmNUyfon7M1T2FlDukSkrvJZWTX93mJv1yIRILv79qlOUQ=s680-w680-h510-rw"
     ],
     plan: [
       "Пройтись екологічною стежкою",
